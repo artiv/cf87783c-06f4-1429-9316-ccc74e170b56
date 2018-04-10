@@ -1,1 +1,141 @@
-{"fileName":"hi_a1.q6a","fileTemplate":{"fileTemplateGeneral":{"fileTemplateGuid":"3f813e22-132e-c780-82c3-969e3ff03255","fileTemplateDate":"2018-04-10T19:05:31.180Z","fileTemplateCollections":["XeqfMa3XwLGjcpDZz"],"fileTemplateCollectionsForTranslation":["XeqfMa3XwLGjcpDZz"]},"fileTemplateLanguage":{"primaryLanguage":"RY8uZofNoFi8aKqKe","possibleLanguages":["jwGgLjTHPiJsyH7ue","RY8uZofNoFi8aKqKe","Fa8zhmpEkd2Q6obPL"]},"fileTemplateStructure":{"fileTemplateGenerics":[{"genericGeneral":{"genericGuid":"d5d5234c-c963-305f-c830-941b63f863f4","genericType":"genericText","genericIsVisibleCollections":["XeqfMa3XwLGjcpDZz"],"genericIsEditableCollections":["XeqfMa3XwLGjcpDZz"],"genericIsRequiredCollections":["XeqfMa3XwLGjcpDZz"],"genericIsMultipleCollections":["XeqfMa3XwLGjcpDZz"]},"genericMeta":{"genericCanTranslate":true,"genericCanParent":false,"genericCanChild":false},"genericSpecific":{"genericInformation":"मेरा नाम यादृच्छिक है","genericChildren":[],"genericKey":"myName","genericValues":[]},"genericWorking":{"genericOrderId":"","genericOrderComment":"","specificOrderComment":"","genericJobId":"","genericJobStatus":"","genericJobComment":"","specificJobComment":""}}],"fileTemplateFields":[]},"fileTemplatePublish":{"fileTemplateTypes":[]}}}
+{
+	"fileName": "hi_a1.q6a",
+	"fileTemplate": {
+		"fileTemplateGeneral": {
+			"fileTemplateGuid": "3f813e22-132e-c780-82c3-969e3ff03255",
+			"fileTemplateDate": "2018-04-10T19:05:31.180Z",
+			"fileTemplateCollections": [
+				"XeqfMa3XwLGjcpDZz"
+			],
+			"fileTemplateCollectionsForTranslation": [
+				"XeqfMa3XwLGjcpDZz"
+			]
+		},
+		"fileTemplateLanguage": {
+			"primaryLanguage": "RY8uZofNoFi8aKqKe",
+			"possibleLanguages": [
+				"jwGgLjTHPiJsyH7ue",
+				"RY8uZofNoFi8aKqKe",
+				"Fa8zhmpEkd2Q6obPL"
+			]
+		},
+		"fileTemplateStructure": {
+			"fileTemplateGenerics": [
+				{
+					"genericGeneral": {
+						"genericGuid": "d5d5234c-c963-305f-c830-941b63f863f4",
+						"genericType": "genericText",
+						"genericIsVisibleCollections": [
+							"XeqfMa3XwLGjcpDZz"
+						],
+						"genericIsEditableCollections": [
+							"XeqfMa3XwLGjcpDZz"
+						],
+						"genericIsRequiredCollections": [
+							"XeqfMa3XwLGjcpDZz"
+						],
+						"genericIsMultipleCollections": [
+							"XeqfMa3XwLGjcpDZz"
+						]
+					},
+					"genericMeta": {
+						"genericCanTranslate": true,
+						"genericCanParent": false,
+						"genericCanChild": false
+					},
+					"genericSpecific": {
+						"genericInformation": "मेरा नाम यादृच्छिक है",
+						"genericChildren": [],
+						"genericKey": "myName",
+						"genericValues": []
+					},
+					"genericWorking": {
+						"genericOrderId": "",
+						"genericOrderComment": "",
+						"specificOrderComment": "",
+						"genericJobId": "",
+						"genericJobStatus": "",
+						"genericJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"genericGeneral": {
+						"genericGuid": "cf50cf75-8734-c5ce-67ba-ea577f96960b",
+						"genericType": "genericSlug",
+						"genericIsVisibleCollections": [
+							"XeqfMa3XwLGjcpDZz"
+						],
+						"genericIsEditableCollections": [
+							"XeqfMa3XwLGjcpDZz"
+						],
+						"genericIsRequiredCollections": [
+							"XeqfMa3XwLGjcpDZz"
+						],
+						"genericIsMultipleCollections": []
+					},
+					"genericMeta": {
+						"genericCanTranslate": true,
+						"genericCanParent": true,
+						"genericCanChild": false
+					},
+					"genericSpecific": {
+						"genericInformation": "okay",
+						"genericChildren": [],
+						"genericKey": "asdfg",
+						"genericValues": []
+					},
+					"genericWorking": {
+						"genericOrderId": "",
+						"genericOrderComment": "",
+						"specificOrderComment": "",
+						"genericJobId": "",
+						"genericJobStatus": "",
+						"genericJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"genericGeneral": {
+						"genericGuid": "48d09a13-6be0-5747-b301-55ba65fb166b",
+						"genericType": "genericDate",
+						"genericIsVisibleCollections": [
+							"XeqfMa3XwLGjcpDZz"
+						],
+						"genericIsEditableCollections": [
+							"XeqfMa3XwLGjcpDZz"
+						],
+						"genericIsRequiredCollections": [
+							"XeqfMa3XwLGjcpDZz"
+						],
+						"genericIsMultipleCollections": []
+					},
+					"genericMeta": {
+						"genericCanTranslate": true,
+						"genericCanParent": false,
+						"genericCanChild": true
+					},
+					"genericSpecific": {
+						"genericInformation": "child",
+						"genericChildren": [],
+						"genericKey": "child",
+						"genericValues": []
+					},
+					"genericWorking": {
+						"genericOrderId": "",
+						"genericOrderComment": "",
+						"specificOrderComment": "",
+						"genericJobId": "",
+						"genericJobStatus": "",
+						"genericJobComment": "",
+						"specificJobComment": ""
+					}
+				}
+			],
+			"fileTemplateFields": []
+		},
+		"fileTemplatePublish": {
+			"fileTemplateTypes": []
+		}
+	}
+}
