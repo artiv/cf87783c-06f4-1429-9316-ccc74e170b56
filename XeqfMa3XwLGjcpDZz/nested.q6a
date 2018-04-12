@@ -164,8 +164,7 @@
 					"genericSpecific": {
 						"genericInformation": "Generic Parent",
 						"genericChildren": [
-							"f8337216-9996-85fb-0def-f05cf9ddabc7",
-							"1731c435-658e-7a79-4072-e7f885f2940e"
+							"f8337216-9996-85fb-0def-f05cf9ddabc7"
 						],
 						"genericKey": "genericParent",
 						"genericValues": []
