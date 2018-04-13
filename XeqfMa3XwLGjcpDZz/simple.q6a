@@ -94,6 +94,46 @@
 						"genericJobComment": "",
 						"specificJobComment": ""
 					}
+				},
+				{
+					"genericGeneral": {
+						"genericGuid": "96201377-6936-2459-6454-2eb7bf3cb9ed",
+						"genericType": "genericParent",
+						"genericIsVisibleCollections": [
+							"XeqfMa3XwLGjcpDZz"
+						],
+						"genericIsEditableCollections": [
+							"XeqfMa3XwLGjcpDZz"
+						],
+						"genericIsRequiredCollections": [
+							"XeqfMa3XwLGjcpDZz"
+						],
+						"genericIsMultipleCollections": [
+							"XeqfMa3XwLGjcpDZz"
+						]
+					},
+					"genericMeta": {
+						"genericCanTranslate": false,
+						"genericCanParent": true,
+						"genericCanChild": false
+					},
+					"genericSpecific": {
+						"genericInformation": "Generic Parent 2",
+						"genericChildren": [
+							"27a838f2-9fd5-fc08-6128-d4f6b689312c"
+						],
+						"genericKey": "genericParent2",
+						"genericValues": []
+					},
+					"genericWorking": {
+						"genericOrderId": "",
+						"genericOrderComment": "",
+						"specificOrderComment": "",
+						"genericJobId": "",
+						"genericJobStatus": "",
+						"genericJobComment": "",
+						"specificJobComment": ""
+					}
 				}
 			],
 			"fileTemplateFields": []
