@@ -175,7 +175,31 @@
 			"fileTemplateFields": []
 		},
 		"fileTemplatePublish": {
-			"fileTemplateTypes": []
+			"fileTemplateTypes": [
+				{
+					"publishTypeGeneral": {
+						"publishTypeGuid": "4649c0ea-96f6-4a17-b0eb-294350d4168a",
+						"publishTypeType": "json"
+					},
+					"publishTypeMeta": {
+						"publishTypeCanRevert": false,
+						"publishTypeCanFork": false
+					},
+					"publishTypeSpecific": {
+						"publishTypeName": "servicesJ",
+						"publishTypeFrontMatter": [
+							"abb3e858-776c-c28d-38de-786be787437b",
+							"c929e269-12bb-6f58-81b5-5b06f82d6592"
+						],
+						"publishTypeBackMatter": [
+							"d7b6e31f-99f1-1471-cb5c-72f4ac2791c8",
+							"76ca948c-f042-32c1-7286-1345e58f05a9"
+						],
+						"publishTypeTargetRepo": "",
+						"publishTypeTargetPath": ""
+					}
+				}
+			]
 		}
 	}
 }
