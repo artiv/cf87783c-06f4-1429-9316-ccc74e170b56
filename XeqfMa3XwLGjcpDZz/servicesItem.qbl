@@ -90,7 +90,8 @@
 						"genericChildren": [],
 						"genericKey": "title",
 						"genericValues": [
-							"Strategy"
+							"Strategy",
+							"Web"
 						]
 					},
 					"genericWorking": {
@@ -130,7 +131,8 @@
 						"genericChildren": [],
 						"genericKey": "description",
 						"genericValues": [
-							"Optimized for mobile, search and social, a website to reach clients who think in a language other than English. An anchor for your business, just in another language."
+							"Optimized for mobile, search and social, a website to reach clients who think in a language other than English. An anchor for your business, just in another language.",
+							"Don't worry about software security, or updating your software. No exorbitant hosting costs, or slow load times. Get the information to your customers, in a language they understand."
 						]
 					},
 					"genericWorking": {
@@ -170,7 +172,8 @@
 						"genericChildren": [],
 						"genericKey": "icon",
 						"genericValues": [
-							"what"
+							"what",
+							"fs"
 						]
 					},
 					"genericWorking": {
