@@ -45,7 +45,11 @@
 					},
 					"genericSpecific": {
 						"genericInformation": "Items",
-						"genericChildren": [],
+						"genericChildren": [
+							"c929e269-12bb-6f58-81b5-5b06f82d6592",
+							"d7b6e31f-99f1-1471-cb5c-72f4ac2791c8",
+							"76ca948c-f042-32c1-7286-1345e58f05a9"
+						],
 						"genericKey": "items",
 						"genericValues": []
 					},
