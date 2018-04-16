@@ -39,7 +39,7 @@
 						]
 					},
 					"genericMeta": {
-						"genericCanTranslate": false,
+						"genericCanTranslate": true,
 						"genericCanParent": true,
 						"genericCanChild": false
 					},
@@ -79,7 +79,7 @@
 						"genericIsMultipleCollections": []
 					},
 					"genericMeta": {
-						"genericCanTranslate": false,
+						"genericCanTranslate": true,
 						"genericCanParent": false,
 						"genericCanChild": true
 					},
@@ -117,7 +117,7 @@
 						]
 					},
 					"genericMeta": {
-						"genericCanTranslate": false,
+						"genericCanTranslate": true,
 						"genericCanParent": false,
 						"genericCanChild": true
 					},
@@ -155,7 +155,7 @@
 						]
 					},
 					"genericMeta": {
-						"genericCanTranslate": false,
+						"genericCanTranslate": true,
 						"genericCanParent": false,
 						"genericCanChild": true
 					},
