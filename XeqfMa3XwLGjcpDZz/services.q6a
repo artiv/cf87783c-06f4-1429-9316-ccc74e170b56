@@ -212,6 +212,42 @@
 						"fieldJobComment": "",
 						"specificJobComment": ""
 					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "599525c8-8794-9351-c1ea-90fffb510edf",
+						"fieldType": "fieldTextbox",
+						"fieldIsVisibleCollections": [
+							"XeqfMa3XwLGjcpDZz"
+						],
+						"fieldIsEditableCollections": [
+							"XeqfMa3XwLGjcpDZz"
+						],
+						"fieldIsRequiredCollections": [
+							"XeqfMa3XwLGjcpDZz"
+						],
+						"fieldIsMultipleCollections": []
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Textbox",
+						"fieldKey": "textbox",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
 				}
 			]
 		},
@@ -235,7 +271,8 @@
 						"publishTypeBackMatter": [
 							"d7b6e31f-99f1-1471-cb5c-72f4ac2791c8",
 							"76ca948c-f042-32c1-7286-1345e58f05a9",
-							"addd9962-78e8-dd4e-f825-2f55160516ec"
+							"addd9962-78e8-dd4e-f825-2f55160516ec",
+							"599525c8-8794-9351-c1ea-90fffb510edf"
 						],
 						"publishTypeTargetRepo": "",
 						"publishTypeTargetPath": ""
@@ -256,7 +293,8 @@
 							"addd9962-78e8-dd4e-f825-2f55160516ec"
 						],
 						"publishTypeBackMatter": [
-							"abb3e858-776c-c28d-38de-786be787437b"
+							"abb3e858-776c-c28d-38de-786be787437b",
+							"599525c8-8794-9351-c1ea-90fffb510edf"
 						],
 						"publishTypeTargetRepo": "",
 						"publishTypeTargetPath": ""
