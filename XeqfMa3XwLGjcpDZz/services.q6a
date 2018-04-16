@@ -176,7 +176,44 @@
 					}
 				}
 			],
-			"fileTemplateFields": []
+			"fileTemplateFields": [
+				{
+					"fieldGeneral": {
+						"fieldGuid": "addd9962-78e8-dd4e-f825-2f55160516ec",
+						"fieldType": "fieldImage",
+						"fieldIsVisibleCollections": [
+							"XeqfMa3XwLGjcpDZz"
+						],
+						"fieldIsEditableCollections": [
+							"XeqfMa3XwLGjcpDZz"
+						],
+						"fieldIsRequiredCollections": [
+							"XeqfMa3XwLGjcpDZz"
+						],
+						"fieldIsMultipleCollections": []
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Image",
+						"fieldKey": "image",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				}
+			]
 		},
 		"fileTemplatePublish": {
 			"fileTemplateTypes": [
@@ -198,6 +235,27 @@
 						"publishTypeBackMatter": [
 							"d7b6e31f-99f1-1471-cb5c-72f4ac2791c8",
 							"76ca948c-f042-32c1-7286-1345e58f05a9"
+						],
+						"publishTypeTargetRepo": "",
+						"publishTypeTargetPath": ""
+					}
+				},
+				{
+					"publishTypeGeneral": {
+						"publishTypeGuid": "9053416f-369d-2b33-a73b-389fbdd8de35",
+						"publishTypeType": "markdown"
+					},
+					"publishTypeMeta": {
+						"publishTypeCanRevert": false,
+						"publishTypeCanFork": false
+					},
+					"publishTypeSpecific": {
+						"publishTypeName": "servicesM",
+						"publishTypeFrontMatter": [
+							"addd9962-78e8-dd4e-f825-2f55160516ec"
+						],
+						"publishTypeBackMatter": [
+							"abb3e858-776c-c28d-38de-786be787437b"
 						],
 						"publishTypeTargetRepo": "",
 						"publishTypeTargetPath": ""
