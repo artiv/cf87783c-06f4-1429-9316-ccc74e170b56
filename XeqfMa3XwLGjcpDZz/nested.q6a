@@ -344,10 +344,13 @@
 						"publishTypeFrontMatter": [
 							"fbfbeac0-1815-a525-61ee-feeaced8f37e",
 							"54b540b7-7382-fb6e-b3d1-79ba1cbeab86",
-							"640c5df9-1dcc-b15b-137f-9e64e7939eef"
+							"640c5df9-1dcc-b15b-137f-9e64e7939eef",
+							"1b8ac823-8289-2fe3-d652-c459e3fa490c"
 						],
 						"publishTypeBackMatter": [
-							"1b8ac823-8289-2fe3-d652-c459e3fa490c"
+							"52e36dee-969a-5985-cd3f-cc04defa65af",
+							"e7a75678-6f15-eba9-b153-bd7bda5d71a8",
+							"302ae197-90ef-5b94-57d1-08911ad64e65"
 						],
 						"publishTypeTargetRepo": "",
 						"publishTypeTargetPath": ""
@@ -367,10 +370,13 @@
 						"publishTypeFrontMatter": [
 							"fbfbeac0-1815-a525-61ee-feeaced8f37e",
 							"640c5df9-1dcc-b15b-137f-9e64e7939eef",
-							"54b540b7-7382-fb6e-b3d1-79ba1cbeab86"
+							"54b540b7-7382-fb6e-b3d1-79ba1cbeab86",
+							"1b8ac823-8289-2fe3-d652-c459e3fa490c"
 						],
 						"publishTypeBackMatter": [
-							"1b8ac823-8289-2fe3-d652-c459e3fa490c"
+							"52e36dee-969a-5985-cd3f-cc04defa65af",
+							"e7a75678-6f15-eba9-b153-bd7bda5d71a8",
+							"302ae197-90ef-5b94-57d1-08911ad64e65"
 						],
 						"publishTypeTargetRepo": "",
 						"publishTypeTargetPath": ""
