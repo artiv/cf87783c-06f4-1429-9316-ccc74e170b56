@@ -1,0 +1,1 @@
+"{\n\t\"generic slug\": [\n\t\t\"some-slug\"\n\t],\n\t\"generic option\": [\n\t\t{\n\t\t\t\"key\": \"generic option 2\",\n\t\t\t\"value\": \"Generic Option 2\",\n\t\t\t\"isTrue\": true\n\t\t}\n\t],\n\t\"genericParent\": []\n}**some text*****__ is sweet__***\n\nokay done\n\n"
